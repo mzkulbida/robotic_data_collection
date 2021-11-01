@@ -1,5 +1,3 @@
-# Projects
-
 ## Robotic Data Collection
 
 - Objective: Proof of Concept
